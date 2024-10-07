@@ -1,12 +1,12 @@
 {
   "title": "Convict Colosseum",
-  "description": "Weeb shit.",
+  "description": "The greatest battle manga known to man.",
   "artist": "pinakanaka",
   "author": "pinakanaka",
   "cover": "https://i.imgur.com/xNmulxm.png",
   "chapters": {
     "1": {
-      "title": "Round 1, Match 1",
+      "title": "Pistol Foot Pete vs The Pure one",
       "volume": "1",
       "last_updated": "1616368746",
       "groups": {
@@ -14,11 +14,53 @@
       }
     },
     "2": {
-      "title": "Round 1, Match 2",
+      "title": "The Natural Athlete vsFirecracker",
       "volume": "1",
       "last_updated": "1728316346",
       "groups": {
         "pinakanaka": "/proxy/api/imgur/chapter/eg7IUM6"
+      }
+    },
+    "3": {
+      "title": "Spiderbite vs The Samoan Huntsman",
+      "volume": "1",
+      "last_updated": "1728317682",
+      "groups": {
+        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-3-EQxHH1C"
+      }
+    },
+    "4": {
+      "title": "The Scourge of British Columbia vs Iron Turtle",
+      "volume": "1",
+      "last_updated": "1728317730",
+      "groups": {
+        "pinakanaka": [
+          "https://imgur.com/a/convict-colosseum-chapter-4-lmq39nt"
+        ]
+      }
+    },
+    "5": {
+      "title": "Ice Cream Truck vs The Scorching Tempest",
+      "volume": "1",
+      "last_updated": "1728317939",
+      "groups": {
+        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-5-7nkTpHI"
+      }
+    },
+    "6": {
+      "title": "Florida Man vs Literally Hitler",
+      "volume": "1",
+      "last_updated": "1728317970",
+      "groups": {
+        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-6-bh1Mewl"
+      }
+    },
+    "7": {
+      "title": "Never-Ending vs The Magic",
+      "volume": "1",
+      "last_updated": "1728318026",
+      "groups": {
+        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-7-Tg1WA38"
       }
     }
   }
