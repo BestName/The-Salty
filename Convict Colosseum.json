@@ -7,10 +7,11 @@
   "chapters": {
     "<1>": {
       "title": "Round 1, Match 1",
+      "volume": "",
+      "last_updated": "1616368746",
       "groups": {
-        "pinakanaka": "/proxy/api/imgur/chapter/c7z0rjp/"
-      },
-      "last_updated": "1616368746"
+        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-1-c7z0rjp"
+      }
     }
   }
 }
