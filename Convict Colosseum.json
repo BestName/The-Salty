@@ -26,7 +26,7 @@
       "volume": "1",
       "last_updated": "1728317682",
       "groups": {
-        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-3-EQxHH1C"
+        "pinakanaka": "/proxy/api/imgur/chapter/EQxHH1C"
       }
     },
     "4": {
@@ -34,9 +34,7 @@
       "volume": "1",
       "last_updated": "1728317730",
       "groups": {
-        "pinakanaka": [
-          "https://imgur.com/a/convict-colosseum-chapter-4-lmq39nt"
-        ]
+        "pinakanaka": "/proxy/api/imgur/chapter/lmq39nt"
       }
     },
     "5": {
@@ -44,7 +42,7 @@
       "volume": "1",
       "last_updated": "1728317939",
       "groups": {
-        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-5-7nkTpHI"
+        "pinakanaka": "/proxy/api/imgur/chapter/7nkTpHI"
       }
     },
     "6": {
@@ -52,7 +50,7 @@
       "volume": "1",
       "last_updated": "1728317970",
       "groups": {
-        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-6-bh1Mewl"
+        "pinakanaka": "/proxy/api/imgur/chapter/bh1Mewl"
       }
     },
     "7": {
@@ -60,7 +58,383 @@
       "volume": "1",
       "last_updated": "1728318026",
       "groups": {
-        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-7-Tg1WA38"
+        "pinakanaka": "/proxy/api/imgur/chapter/Tg1WA38"
+      }
+    },
+    "8": {
+      "title": "Geared-Up vs The God In A Box",
+      "volume": "1",
+      "last_updated": "1728318140",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/DrAamjc"
+      }
+    },
+    "9": {
+      "title": "Beatdown vs Boogie Woogie",
+      "volume": "1",
+      "last_updated": "1728318169",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/Y39lBIS"
+      }
+    },
+    "10": {
+      "title": "The Arm Thief vs Sonic-Boom",
+      "volume": "1",
+      "last_updated": "1728318187",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/ePse9ib"
+      }
+    },
+    "11": {
+      "title": "El Cucaracho vs Danger",
+      "volume": "1",
+      "last_updated": "1728318204",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/WgTucgw"
+      }
+    },
+    "12": {
+      "title": "The Cuban Missile vs Monkey See",
+      "volume": "1",
+      "last_updated": "1728318225",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/IvcnaIT"
+      }
+    },
+    "13": {
+      "title": "Violence Incarnate vs The Kyokushin Hammer",
+      "volume": "1",
+      "last_updated": "1728318352",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/qcpsOuO"
+      }
+    },
+    "14": {
+      "title": "Rawdog vs The Karmic Blade",
+      "volume": "1",
+      "last_updated": "1728318466",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/SXxEG6F"
+      }
+    },
+    "15": {
+      "title": "The Abyss vs The American Dream",
+      "volume": "1",
+      "last_updated": "1728318487",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/jHT4SJN"
+      }
+    },
+    "16": {
+      "title": "Holy Scythe vs Tomahawk",
+      "volume": "1",
+      "last_updated": "1728318511",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/Vxre8l0"
+      }
+    },
+    "17": {
+      "title": "Holding",
+      "volume": "1",
+      "last_updated": "1728318535",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/HRPXmSU"
+      }
+    },
+    "18": {
+      "title": "Interlude",
+      "volume": "1",
+      "last_updated": "1728318564",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/ELldyIM"
+      }
+    },
+    "19": {
+      "title": "Pistol Foot Pete vs Firecracker",
+      "volume": "1",
+      "last_updated": "1728318593",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/WlLOsFA"
+      }
+    },
+    "20": {
+      "title": "Pistol Foot Pete vs Firecracker (Part 2)",
+      "volume": "1",
+      "last_updated": "1728318771",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/CN4vVV6"
+      }
+    },
+    "21": {
+      "title": "Killers (Teaser)",
+      "volume": "1",
+      "last_updated": "1728318791",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/wTl6aWg"
+      }
+    },
+    "22": {
+      "title": "The Samoan Huntsman vs The Scourge of British Columbia",
+      "volume": "1",
+      "last_updated": "1728318878",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/AV36HfA"
+      }
+    },
+    "23": {
+      "title": "The Samoan Huntsman vs The Scourge of British Columbia (Part 2)",
+      "volume": "1",
+      "last_updated": "1728318920",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/GBt1oa9"
+      }
+    },
+    "24": {
+      "title": "The Samoan Huntsman vs The Scourge of British Columbia (Part 3)",
+      "volume": "1",
+      "last_updated": "1728318972",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/A378bvx"
+      }
+    },
+    "25": {
+      "title": "Humble",
+      "volume": "1",
+      "last_updated": "1728318993",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/ZwPjf4t"
+      }
+    },
+    "26": {
+      "title": "Never-Ending vs The God In a Box",
+      "volume": "1",
+      "last_updated": "1728319018",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/YjtbChB"
+      }
+    },
+    "27": {
+      "title": "Eerie",
+      "volume": "1",
+      "last_updated": "1728319066",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/sDvft29"
+      }
+    },
+    "28": {
+      "title": "Beatdown vs The Arm Thief",
+      "volume": "1",
+      "last_updated": "1728319084",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/RezLkDU"
+      }
+    },
+    "29": {
+      "title": "Beatdown vs The Arm Thief (Part 2)",
+      "volume": "1",
+      "last_updated": "1728319128",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/EBJSDTc"
+      }
+    },
+    "30": {
+      "title": "Beatdown vs The Arm Thief (Part 3)",
+      "volume": "1",
+      "last_updated": "1728319168",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/aUrJSQn"
+      }
+    },
+    "32": {
+      "title": "El Cucaracho vs Monkey See",
+      "volume": "1",
+      "last_updated": "1728319369",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/IY3EhH5"
+      }
+    },
+    "33": {
+      "title": "El Cucaracho vs Monkey See (Part 2)",
+      "volume": "1",
+      "last_updated": "1728319427",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/8gkwAHG"
+      }
+    },
+    "34": {
+      "title": "Definitely Warranted",
+      "volume": "1",
+      "last_updated": "1728319463",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/y6PkAWe"
+      }
+    },
+    "35": {
+      "title": "Violence Incarnate vs The Karmic Blade",
+      "volume": "1",
+      "last_updated": "1728319489",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/8FQNAjc"
+      }
+    },
+    "36": {
+      "title": "Don",
+      "volume": "1",
+      "last_updated": "1728319522",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/KDa4Hko"
+      }
+    },
+    "37": {
+      "title": "The Abyss vs Tomahawk",
+      "volume": "1",
+      "last_updated": "1728319535",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/hGr4rPv"
+      }
+    },
+    "38": {
+      "title": "The Abyss vs Tomahawk (Part 2)",
+      "volume": "1",
+      "last_updated": "1728319561",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/lEaoujQ"
+      }
+    },
+    "39": {
+      "title": "Assessments",
+      "volume": "1",
+      "last_updated": "1728319593",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/89BMduU"
+      }
+    },
+    "40": {
+      "title": "Ice Cream Truck vs Florida Man",
+      "volume": "1",
+      "last_updated": "1728319609",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/lyMYXA0"
+      }
+    },
+    "41": {
+      "title": "Ice Cream Truck vs Florida Man (Part 2)",
+      "volume": "1",
+      "last_updated": "1728319647",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/Xlpz88c"
+      }
+    },
+    "42": {
+      "title": "Ice Cream Truck vs Florida Man (Part 3)",
+      "volume": "1",
+      "last_updated": "1728319671",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/amQZfWx"
+      }
+    },
+    "43": {
+      "title": "Holding 2",
+      "volume": "1",
+      "last_updated": "1728319693",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/OxdhUNE"
+      }
+    },
+    "44": {
+      "title": "Holding 2 (Part 2)",
+      "volume": "1",
+      "last_updated": "1728319727",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/BIJkZ1q"
+      }
+    },
+    "45": {
+      "title": "Unpredictable",
+      "volume": "1",
+      "last_updated": "1728319813",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/CIE8YV6"
+      }
+    },
+    "46": {
+      "title": "Florida Man vs The God In a Box",
+      "volume": "1",
+      "last_updated": "1728319868",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/qo3RZ1P"
+      }
+    },
+    "47": {
+      "title": "Florida Man vs The God In a Box (Part 2)",
+      "volume": "1",
+      "last_updated": "1728319943",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/hW9NB37"
+      }
+    },
+    "48": {
+      "title": "Florida Man vs The God In a Box (Part 3)",
+      "volume": "1",
+      "last_updated": "1728319968",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/BECLMFu"
+      }
+    },
+    "49": {
+      "title": "Florida Man vs The God In a Box (Part 4)",
+      "volume": "1",
+      "last_updated": "1728319993",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/8lS7gXD"
+      }
+    },
+    "30.5": {
+      "title": "Side Story 1",
+      "volume": "1",
+      "last_updated": "1728319202",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/nN1YUpz"
+      }
+    },
+    "30.6": {
+      "title": "Side Story 2",
+      "volume": "1",
+      "last_updated": "1728319237",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/hHGr8Oi"
+      }
+    },
+    "30.7": {
+      "title": "Side Story 3",
+      "volume": "1",
+      "last_updated": "1728319314",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/8HUJEDo"
+      }
+    },
+    "44.5": {
+      "title": "Side Story 4",
+      "volume": "1",
+      "last_updated": "1728319749",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/3bptbbs"
+      }
+    },
+    "44.6": {
+      "title": "Side Story 5",
+      "volume": "1",
+      "last_updated": "1728319767",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/y8u0kve"
+      }
+    },
+    "44.7": {
+      "title": "Side Story 6",
+      "volume": "1",
+      "last_updated": "1728319795",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/hJUlhnv"
       }
     }
   }
