@@ -10,7 +10,7 @@
       "volume": "1",
       "last_updated": "1616368746",
       "groups": {
-        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-1-c7z0rjp"
+        "pinakanaka": "/proxy/api/imgur/chapter/c7z0rjp"
       }
     },
     "2": {
@@ -18,7 +18,7 @@
       "volume": "1",
       "last_updated": "1728316346",
       "groups": {
-        "pinakanaka": "https://imgur.com/a/convict-colosseum-round-1-match-1-eg7IUM6"
+        "pinakanaka": "/proxy/api/imgur/chapter/eg7IUM6"
       }
     }
   }
