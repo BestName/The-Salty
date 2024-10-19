@@ -406,7 +406,7 @@
       }
     },
     "52": {
-      "title": "Round 3, Match 2",
+      "title": "Round 3, Match 2 (Part 2)",
       "volume": "1",
       "last_updated": "1728724410",
       "groups": {
@@ -414,7 +414,7 @@
       }
     },
     "53": {
-      "title": "Round 3, Match 2",
+      "title": "Round 3, Match 2 (Part 3)",
       "volume": "1",
       "last_updated": "1728798790",
       "groups": {
@@ -435,6 +435,14 @@
       "last_updated": "1729318028",
       "groups": {
         "pinakanaka": "/proxy/api/imgur/chapter/HJ0alGh"
+      }
+    },
+    "56": {
+      "title": "Round 3, Match 3 (Part 2)",
+      "volume": "1",
+      "last_updated": "1729350801",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/N2UQ5eu"
       }
     },
     "30.5": {
