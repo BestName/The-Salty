@@ -501,6 +501,14 @@
         "pinakanaka": "/proxy/api/imgur/chapter/2PgM6tl"
       }
     },
+    "64": {
+      "title": "I'm Sure ",
+      "volume": "1",
+      "last_updated": "1731680521",
+      "groups": {
+        "pinakanaka": "/proxy/api/imgur/chapter/zZChSG2"
+      }
+    },
     "30.5": {
       "title": "Side Story 1",
       "volume": "1",
@@ -572,6 +580,6 @@
       "groups": {
         "pinakanaka": "/proxy/api/imgur/chapter/jmqmBi6"
       }
-    } 
+    }
   }
 }
